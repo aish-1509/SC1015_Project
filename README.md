@@ -4,7 +4,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which uses the [Wine Quality Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality) for us to apply what we have learnt throughout this course.
 
 ## Contributors
-- @aish-1509 - Data Extraction
+- @aish-1509 - Data Extraction, Data Visualisation
 - @JJChong77 - Data Resamlping
 - @JonasChua - Logistic Classification
 
