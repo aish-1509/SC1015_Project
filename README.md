@@ -10,6 +10,7 @@ Below is the step-by-step process of the analysis:
 4. Logistic Classification
 
 ## Problem Statement
+- How do we know of a wine is good?
 - Can we predict if a wine is good based on its attributes?
 
 ## Conclusion
