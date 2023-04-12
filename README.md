@@ -9,21 +9,19 @@ Below is the step-by-step process of the analysis:
 3. Data Resampling
 4. Logistic Classification
 
-## Contributors
-- @aish-1509 - Data Extraction, Data Visualisation
-- @JJChong77 - Data Resamlping
-- @JonasChua - Logistic Classification
-
 ## Problem Statement
 - Can we predict if a wine is good based on its attributes?
-
-## Tools Used
-- Logistic Classification (XGBoost)
 
 ## Conclusion
 
 
 ## What We have Learnt
+
+
+## Contributors
+- @aish-1509 - Data Extraction, Data Visualisation
+- @JJChong77 - Data Resamlping
+- @JonasChua - Logistic Classification
 
 ## References
 - <https://archive.ics.uci.edu/ml/datasets/wine+quality>
