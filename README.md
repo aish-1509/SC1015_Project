@@ -6,7 +6,7 @@ This is a Mini-Project for the course SC1015 (Introduction to Data Science and A
 Below is the step-by-step process of the analysis:
 1. [Data Extraction and Visualisation](https://github.com/JonasChua/SC1015_Project/blob/main/Data_Extraction_and_Visualisation.ipynb)
 2. [Data Cleaning and Resampling](https://github.com/JonasChua/SC1015_Project/blob/main/Data_Cleaning_and_Resampling.ipynb)
-3. [Logistic Classification](https://github.com/JonasChua/SC1015_Project/blob/main/Gradient_Boosting_Classification.ipynb)
+3. [Gradient Boosting Classification](https://github.com/JonasChua/SC1015_Project/blob/main/Gradient_Boosting_Classification.ipynb)
 
 ## Problem Statement
 - How do we know of a wine is good?
@@ -21,7 +21,7 @@ Below is the step-by-step process of the analysis:
 ## Contributors
 - @aish-1509 - Data Extraction, Data Visualisation
 - @JJChong77 - Data Cleaning, Data Resampling
-- @JonasChua - Logistic Classification, Data Visualisation
+- @JonasChua - Gradient Boosting Classification, Data Visualisation
 
 ## References
 - <https://archive.ics.uci.edu/ml/datasets/wine+quality>
