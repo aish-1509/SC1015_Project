@@ -4,10 +4,9 @@
 This is a Mini-Project for the course SC1015 (Introduction to Data Science and Artificial Intelligence). In this project we are using the [Wine Quality Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality) for our analysis.
 
 Below is the step-by-step process of the analysis:
-1. Data Extraction
-2. Data Visualisation
-3. Data Resampling
-4. Logistic Classification
+1. [Data Extraction and Visualisation](https://github.com/JonasChua/SC1015_Project/blob/main/Data_Extraction_and_Visualisation.ipynb)
+2. [Data Cleaning and Resampling](https://github.com/JonasChua/SC1015_Project/blob/main/Data_Cleaning_and_Resampling.ipynb)
+3. [Logistic Classification](https://github.com/JonasChua/SC1015_Project/blob/main/Logistic_Classification.ipynb)
 
 ## Problem Statement
 - How do we know of a wine is good?
@@ -21,8 +20,8 @@ Below is the step-by-step process of the analysis:
 
 ## Contributors
 - @aish-1509 - Data Extraction, Data Visualisation
-- @JJChong77 - Data Resamlping
-- @JonasChua - Logistic Classification
+- @JJChong77 - Data Cleaning, Data Resampling
+- @JonasChua - Logistic Classification, Data Visualisation
 
 ## References
 - <https://archive.ics.uci.edu/ml/datasets/wine+quality>
