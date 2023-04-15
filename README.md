@@ -27,3 +27,4 @@ Below is the step-by-step process of the analysis:
 - <https://archive.ics.uci.edu/ml/datasets/wine+quality>
 - <https://xgboost.readthedocs.io/en/stable/index.html>
 - <https://classeval.wordpress.com/introduction/basic-evaluation-measures/>
+- https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets
